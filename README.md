@@ -1,1 +1,1 @@
-# RevendedoraDeCarros
+Este algoritmo faz referência ao valor que uma revendedora de carros usados paga a seus funcionários: salário fixo por mês, mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele efetuadas.
